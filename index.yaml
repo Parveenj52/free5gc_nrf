@@ -23,6 +23,6 @@ entries:
       name: Ayoub BOUSSELMI
     name: free5gc-nrf
     urls:
-    - free5gc-nrf-1.1.7.tgz
+    - https://github.com/Parveenj52/free5gc_nrf/tree/gh-pages/free5gc-nrf-1.1.7.tgz
     version: 1.1.7
 generated: "2023-10-05T07:16:33.78384645Z"
